@@ -6,11 +6,11 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "My Blog"
+title = "Wendell White Analytics"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://wendellwhiteanalytics.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -26,7 +26,7 @@ enableGitInfo = false
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = falseMy Blog
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
@@ -37,7 +37,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
-[permalinks]
+[permalinks]My Blog
   authors = "/author/:slug/"
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
@@ -49,7 +49,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]
-
+My Blog
 [outputFormats.WebAppManifest]
   mediaType = "application/manifest+json"
   rel = "manifest"
@@ -60,7 +60,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-  [markup.highlight]
+  [markup.highlight]My Blog
     codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   [markup.tableOfContents]
     startLevel = 2
