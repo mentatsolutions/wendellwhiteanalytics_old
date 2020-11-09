@@ -68,4 +68,4 @@ I studied Petroleum Engineering and have worked all over the world on a variety 
 I live in Denver, CO with my wonderful wife.
 
 This blog is built with blogdown and Hugo, and deployed using Netlify. My blog posts are released under the Standard MIT license License. Header photos by Markus Spiske on Unsplash. Bitcoin Logo photo by Michelle Henderson also on Unsplash
-you enjoy my blog, feel free to an send me a few Satoshis!
+you enjoy my blog, feel free to an send me a few Satoshis!  BTC Wallet:  1F1pohPiqH7dy4eyLYQUNcxSTbzAhPiGt
