@@ -3,8 +3,14 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
 [[main]]
-  name = "Home"
+  name = "Wendell White"
+  url = "about/"
+  weight = 5
+
+[[main]]
+  name = "Blog"
   url = "/"
   weight = 10
 
@@ -12,3 +18,8 @@
   name = "About"
   url = "about/"
   weight = 20
+  
+[[main]]
+  name = "Resume"
+  url = "resume/"
+  weight = 30
