@@ -10,7 +10,7 @@ subtitle = "Bitcoin / Crypto Analysis and Trading Strategy Research"
 
 [design.background]
   # Background color.
-  color = "#ff9b71"
+  color = "#34495e"
 
   # Text color (true=light or false=dark).
   text_color_light = true
