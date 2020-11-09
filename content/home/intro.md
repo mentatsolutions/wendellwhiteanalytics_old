@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "✏️ Wendell White Analytics"
+title = "Wendell White Analytics"
 subtitle = "Bitcoin / Crypto Analysis and Trading Strategy Research"
 
 [design.background]
