@@ -8,10 +8,13 @@ weight = 10  # Order that this section will appear in.
 title = "Wendell White Analytics"
 subtitle = "Bitcoin / Crypto Analysis and Trading Strategy Research"
 
-widget: featurette
-headless: true  # This file represents a page section.
+widget =  "featurette"
+headless =  true  # This file represents a page section.
+active = true
+weight = 20
 
 # ... Put Your Section Options Here (title etc.) ...
+title = "Skills"
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
@@ -36,4 +39,6 @@ feature:
 
   # Text color (true=light or false=dark).
   text_color_light = true
+
+
 +++
