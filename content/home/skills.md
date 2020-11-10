@@ -1,12 +1,13 @@
 +++
 
+
+# ... Put Your Section Options Here (title etc.) ...
 widget =  "featurette"
 headless =  true  # This file represents a page section.
 title = "Skills"
 active = true
 weight = 20
 
-# ... Put Your Section Options Here (title etc.) ...
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
