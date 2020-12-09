@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Bitcoin = Power"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "codescreen.jpg"
+hero_media = "avatar.jpg"
 # Hero widget.
 
 [design.background]
