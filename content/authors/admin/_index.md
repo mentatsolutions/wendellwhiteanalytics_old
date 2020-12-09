@@ -48,6 +48,4 @@ This blog is built with blogdown and Hugo, and deployed using Netlify. My blog p
 
 BTC Wallet: 1F1pohPiqH7dy4eyLYQUNcxSTbzAhPiGt
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
-# [Download my CV]{{< ref "cv.pdf" >}}
-# {{% staticref "cv.pdf" %}}Download my CV{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
