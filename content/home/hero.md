@@ -1,4 +1,4 @@
-+++
+---
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -51,7 +51,7 @@ hero_media = "avatar.jpg"
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-+++
+---
 
 **The Future of the Global Financial System is NOW...**
 
